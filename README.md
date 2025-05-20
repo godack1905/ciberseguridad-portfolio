@@ -14,10 +14,6 @@
 - Prepararme para certificaciones como eJPT y OSCP.
 - Crear un portfolio profesional para el sector de la ciberseguridad.
 
-## Contacto
-
-Puedes contactarme por LinkedIn: [Isaías Vela Sotil](https://www.linkedin.com/in/isa%C3%ADas-vela-sotil-b436431a4/) o por email: isaiasvelasotil@gmail.com
-
 ---
 
 *Este repositorio se actualiza regularmente con nuevos retos y aprendizajes.*
