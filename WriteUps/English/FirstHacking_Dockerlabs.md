@@ -18,6 +18,8 @@ Presiona Ctrl+C cuando termines con la máquina para eliminarla
 Once deployed, we create the firsthacking folder, go inside and use the *mkt* utility that creates the *nmap*, *content*, *exploits* and *scripts* folders.
 
 ```
+❯ mkdir firsthacking-dockerlabs
+❯ cd firsthacking-dockerlabs
 ❯ mkt
 ❯ ls -l
 drwxrwxr-x godack godack 4.0 KB Thu Aug 14 19:20:29 2025 content
