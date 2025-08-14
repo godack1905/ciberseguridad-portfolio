@@ -18,6 +18,8 @@ Presiona Ctrl+C cuando termines con la máquina para eliminarla
 Una vez desplegada, creamos la carpeta firsthacking, nos metemos dentro y usamos la utilidad *mkt* que nos crea las carpetas *nmap*, *content*, *exploits* y *scripts*.
 
 ```
+❯ mkdir firsthacking-dockerlabs
+❯ cd firsthacking-dockerlabs
 ❯ mkt
 ❯ ls -l
 drwxrwxr-x godack godack 4.0 KB Thu Aug 14 19:20:29 2025 content
