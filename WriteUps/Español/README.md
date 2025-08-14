@@ -4,7 +4,6 @@ En esta carpeta encontrarás mis WriteUps de máquinas que he resuelto en plataf
 
 ## 📋 Índice
 
-
 ## 🎯 Objetivo
 
 Documentar y compartir mi proceso de aprendizaje en **pentesting**, cubriendo:
