@@ -3,6 +3,7 @@
 In this folder, you'll find my WriteUps for machines I've completed on platforms like **TryHackMe**, **HackTheBox**, and **VulnHub**.
 
 ## 📋 Index
+- First Hacking (Dockerlabs)
 
 ## 🎯 Objective
 
