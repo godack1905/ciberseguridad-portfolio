@@ -94,4 +94,4 @@ root
 $  
 ```
 
-Y ya tenemos acceso a la máquina!!2
+Y ya tenemos acceso a la máquina!!
