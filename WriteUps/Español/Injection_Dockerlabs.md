@@ -93,7 +93,7 @@ ff02::2 ip6-allrouters
 
 Una vez configurado el archivo */etc/hosts* procedemos a acceder a la página web, y vemos que es un formulario de login.
 
-![Login](image.png)
+![Web](../.sources/image.png)
 
 Probamos a introducir los parámetros básicos para comprobar si hay inyección SQL. Para ello hay que introducir la cadena *admin' OR '1' = '1'; --* en el apartado de usuario y cualquier cosa en password (en mi caso he puesto *hacked!*) para que deje enviar el formulario, y si todo va bien, podremos entrar siendo los administradores (si no va con el usuario admin se puede ir cambiando a root, administrator, y cosas parecidas, pero sin perder mucho el tiempo).
 
@@ -107,8 +107,6 @@ Y bingo! Estamos dentro y obtenemos las credenciales de el usuario Dylan
 ```
 Bienvenido Dylan! Has insertado correctamente tu contraseña: KJSDFG789FGSDF78
 ```
-
-![alt text](image-1.png)
 
 Al haber obtenido esas credenciales, podemos probar a acceder mediante el puerto ssh también abierto.
 
