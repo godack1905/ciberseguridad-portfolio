@@ -63,7 +63,7 @@ Nmap done: 1 IP address (1 host up) scanned in 2.71 seconds
 
 In this way we discover that the service running on port 21 (FTP port) is vsftpd version 2.3.4.
 
-## Explotación
+## Exploit
 Once we have recognized the ports and services, we realize that when searching with searchsploit, the vsftpd service with version 2.3.4 is a vulnerable service.
 ```
 ❯ searchsploit vsftpd 2.3.4
