@@ -94,4 +94,4 @@ root
 $  
 ```
 
-Y ya tenemos acceso a la máquina!!
+Y ya tenemos acceso a la máquina y sin escalada de privilegios porque ya somos el usuario root!!
