@@ -1,11 +1,12 @@
 # Write Up First Hacking
 
-**Dificulty:** Super easy<br>
-**URL of dockerlabs:** https://dockerlabs.es/
+**Difficulty:** Super easy<br>
+**Link to dockerlabs:** https://dockerlabs.es/
 
 ## Setting the enviroment
 First of all we deploy the machine with the script that comes when downloading the machine
 ```
+❯ chmod +x auto_deploy.sh
 ❯ sudo ./auto_deploy.sh firsthacking.tar
 
 Estamos desplegando la máquina vulnerable, espere un momento.
@@ -92,4 +93,4 @@ root
 $  
 ```
 
-And finally we have access to the machine!!
+And finally we have access to the machine and we don't have to scale privileges because we are already root user!!
