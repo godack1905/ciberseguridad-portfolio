@@ -1,6 +1,6 @@
 # Write Up First Hacking
 
-**Difficulty:** Super easy
+**Difficulty:** Super easy<br>
 **Dockerlabs link:** https://dockerlabs.es/
 
 ## Environment setup
