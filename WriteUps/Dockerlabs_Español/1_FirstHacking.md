@@ -1,6 +1,6 @@
 # Write Up First Hacking
 
-**Dificultad:** Super fáil<br>
+**Dificultad:** Super fácil<br>
 **Enlace a dockerlabs:** https://dockerlabs.es/
 
 ## Configuración del entorno
