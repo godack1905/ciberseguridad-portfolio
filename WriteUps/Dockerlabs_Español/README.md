@@ -1,18 +1,19 @@
-# 🧠 WriteUps de Máquinas
+# 🧠 WriteUps de Máquinas de Dockerlabs
 
-En esta carpeta encontrarás mis WriteUps de máquinas que he resuelto en plataformas como **TryHackMe**, **HackTheBox** y **VulnHub**.
+En esta carpeta encontrarás mis WriteUps de máquinas que he resuelto en **Dockerlabs**.
 
 ## 📋 Índice
-- First hacking (Dockerlabs)
-- Injection (Dockerlabs)
+- First Hacking
+- Injection
+- Trust
+
 ## 🎯 Objetivo
 
 Documentar y compartir mi proceso de aprendizaje en **pentesting**, cubriendo:
+- Configuración del entorno
 - Reconocimiento
-- Enumeración
 - Explotación
 - Escalada de privilegios
-- Lecciones aprendidas
 
 ## ⚠️ Disclaimer
 

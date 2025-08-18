@@ -1,18 +1,19 @@
 # 🧠 Machine WriteUps
 
-In this folder, you'll find my WriteUps for machines I've completed on platforms like **TryHackMe**, **HackTheBox**, and **VulnHub**.
+In this folder, you'll find my WriteUps for machines I've completed on **Dockerlabs**.
 
 ## 📋 Index
-- First Hacking (Dockerlabs)
+- First Hacking
+- Injection
+- Trust
 
 ## 🎯 Objective
 
 To document and share my learning process in **pentesting**, covering:
+- Environment setup 
 - Reconnaissance  
-- Enumeration  
 - Exploitation  
-- Privilege Escalation  
-- Lessons Learned
+- Privilege Escalation
 
 ## ⚠️ Disclaimer
 
