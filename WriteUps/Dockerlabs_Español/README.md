@@ -14,6 +14,7 @@ Documentar y compartir mi proceso de aprendizaje en **pentesting**, cubriendo:
 - Reconocimiento
 - Explotación
 - Escalada de privilegios
+- Lecciones vistas
 
 ## ⚠️ Disclaimer
 

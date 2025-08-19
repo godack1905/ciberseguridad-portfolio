@@ -14,6 +14,7 @@ To document and share my learning process in **pentesting**, covering:
 - Reconnaissance  
 - Exploitation  
 - Privilege Escalation
+- Lessons learned
 
 ## ⚠️ Disclaimer
 

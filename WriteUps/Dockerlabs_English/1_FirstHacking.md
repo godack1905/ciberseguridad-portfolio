@@ -94,3 +94,8 @@ $
 ```
 
 And finally we have access to the machine and we don't have to scale privileges because we are already root user!!
+
+## Lessons Learned
+1. Scans with **nmap**
+2. Use of **searchsploit**
+3. Searching for exploits on GitHub

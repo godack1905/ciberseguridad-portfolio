@@ -154,3 +154,8 @@ dylan@6b329dffcb35:/bin$ ./env /bin/sh -p
 root
 # 
 ```
+## Lecciones vistas
+1. Escaneos con **nmap**
+2. Inyección SQL simple
+3. Busqueda de binarios con *setuid* activo
+4. Escalada de privilegios con **env**

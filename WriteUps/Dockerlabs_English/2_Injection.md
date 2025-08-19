@@ -154,3 +154,9 @@ dylan@6b329dffcb35:/bin$ ./env /bin/sh -p
 root
 # 
 ```
+
+## Lessons Learned
+1. Scans with **nmap**
+2. Simple SQL injection
+3. Searching for binaries with active *setuid*
+4. Privilege escalation with **env**

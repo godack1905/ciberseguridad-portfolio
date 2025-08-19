@@ -214,3 +214,9 @@ root@f29b3bbef1a5:/home/mario#
 ```
 
 Root obtained!
+
+## Lessons Learned
+1. Scans with **nmap**
+2. Fuzzing with **gobuster**
+3. Brute force attack with **hydra**
+4. Privilege escalation with **vim**

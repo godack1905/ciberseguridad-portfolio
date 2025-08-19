@@ -207,3 +207,8 @@ root@f29b3bbef1a5:/home/mario# whoami
 root
 root@f29b3bbef1a5:/home/mario# 
 ```
+## Lecciones vistas
+1. Escaneos con **nmap**
+2. Fuzzing con **gobuster**
+3. Ataque de fuerza bruta con **hydra**
+4. Escalada de privilegios con **vim**

@@ -95,3 +95,8 @@ $
 ```
 
 Y ya tenemos acceso a la máquina y sin escalada de privilegios porque ya somos el usuario root!!
+
+## Lecciones vistas
+1. Escaneos con **nmap**
+2. Uso de **searchsploit**
+3. Busqueda de exploits en github
