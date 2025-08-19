@@ -6,6 +6,7 @@ In this folder, you'll find my WriteUps for machines I've completed on **Dockerl
 - First Hacking
 - Injection
 - Trust
+- Obsession
 
 ## 🎯 Objective
 
