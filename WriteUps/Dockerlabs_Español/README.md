@@ -6,6 +6,7 @@ En esta carpeta encontrarás mis WriteUps de máquinas que he resuelto en **Dock
 - First Hacking
 - Injection
 - Trust
+- Obsession
 
 ## 🎯 Objetivo
 
