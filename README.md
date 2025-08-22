@@ -4,9 +4,8 @@
 
 ## ¿Qué encontrarás aquí?
 
-- Write ups de máquinas y retos en plataformas como TryHackMe y Vulnhub.
-- Apuntes propios sobre vulnerabilidades y herramientas.
 - Scripts útiles en Python y Bash para tareas de pentesting.
+- Herramientas que desarrolle para tareas de pentesting
 
 ## Objetivos
 
@@ -15,5 +14,3 @@
 - Crear un portfolio profesional para el sector de la ciberseguridad.
 
 ---
-
-*Este repositorio se actualiza regularmente con nuevos retos y aprendizajes.*
