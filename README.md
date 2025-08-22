@@ -13,4 +13,3 @@
 - Prepararme para certificaciones como eJPT y OSCP.
 - Crear un portfolio profesional para el sector de la ciberseguridad.
 
----
