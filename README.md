@@ -15,4 +15,4 @@ Welcome to my public repository dedicated to pentesting and cybersecurity!
 
 ## 📚 Explore My Writeups and Notes
 Check out my writeups and detailed notes on my web:  
-[Go to Website](https://](https://godack1905.github.io/godack.github.io/)
+[Go to Website](https://godack1905.github.io/godack.github.io/)
