@@ -1,15 +1,14 @@
-# 🛡️ Pentesting & Ciberseguridad
+# 🛡️ Pentesting & Cybersecurity
 
-¡Bienvenido a mi repositorio público de pentesting y ciberseguridad!
+Welcome to my public repository dedicated to pentesting and cybersecurity!
 
-## ¿Qué encontrarás aquí?
+## What You'll Find Here
 
-- Scripts útiles en Python y Bash para tareas de pentesting.
-- Herramientas que desarrolle para tareas de pentesting
+- Useful scripts in Python and Bash for pentesting tasks.  
+- Custom tools I’ve developed to automate and simplify security assessments.
 
-## Objetivos
+## Goals
 
-- Consolidar y compartir mi aprendizaje.
-- Prepararme para certificaciones como eJPT y OSCP.
-- Crear un portfolio profesional para el sector de la ciberseguridad.
-
+- Consolidate and share my learning in cybersecurity.  
+- Prepare for certifications such as eJPT and OSCP.  
+- Build a professional portfolio showcasing my skills for the cybersecurity industry.
